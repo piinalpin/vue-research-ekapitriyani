@@ -1,4 +1,4 @@
-# Front End Flask REST API
+# Front End Eka Pitriyani Research
 This project implements to [ekapitriyani/research](https://github.com/ekapitriyani/research) repository
 
 ## Step to run
